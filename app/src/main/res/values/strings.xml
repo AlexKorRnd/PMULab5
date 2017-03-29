@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PMULab5</string>
+    <string name="task.completed">Задача выполнена</string>
+    <string name="task.not_completed">Задача не выполнена</string>
+</resources>
