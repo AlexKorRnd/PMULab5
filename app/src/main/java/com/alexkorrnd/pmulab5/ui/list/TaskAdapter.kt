@@ -1,4 +1,4 @@
-package com.alexkorrnd.pmulab5
+package com.alexkorrnd.pmulab5.ui.list
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
@@ -7,6 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.CheckBox
 import android.widget.TextView
+import com.alexkorrnd.pmulab5.BaseAdapter
+import com.alexkorrnd.pmulab5.R
 import com.alexkorrnd.pmulab5.data.Task
 
 class TaskAdapter(context: Context, val callback: Callback): BaseAdapter<Task, TaskAdapter.Holder>() {

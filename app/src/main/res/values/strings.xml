@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">PMULab5</string>
+
     <string name="task.completed">Задача выполнена</string>
     <string name="task.not_completed">Задача не выполнена</string>
+
+    <string name="add_task.screen.title">Добавление задачи</string>
+    <string name="add_task.hint.title">Заголовок</string>
+    <string name="add_task.hint.description">Описание</string>
+    <string name="add_task.action.save">Сохранить</string>
 </resources>
